@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xmain12/stefanie-beta.git"
+    "url": "git+https://github.com/Kaweeshachamodk/Poo.git"
   },
   "keywords": [
     "whatsapp",
@@ -21,7 +21,7 @@
   "developer": "@Kaweeshachamodk / @Mr chaby",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/xmain12/stefanie-beta/issues"
+    "url": "https://github.com/Kaweeshachamodk/Poo/issues"
   },
   "homepage": "https://github.com/xmain12/stefanie-beta#readme",
   "dependencies": {
